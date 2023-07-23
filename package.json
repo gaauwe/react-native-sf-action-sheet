@@ -1,0 +1,34 @@
+{
+	"name": "react-native-sf-action-sheet",
+	"version": "0.0.1",
+	"description": "A custom ActionSheetIOS",
+	"contributors": [
+		{
+			"name": "Gaauwe Rombouts",
+			"url": "https://github.com/gaauwe"
+		}
+	],
+	"keywords": [
+		"react",
+		"react-native",
+		"action-sheet",
+		"ActionSheetIOS",
+		"icon",
+		"SFSymbols",
+		"SF",
+		"Symbols",
+		"ios"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gaauwe/react-native-sf-action-sheet.git"
+	},
+	"bugs": {
+		"url": "https://github.com/gaauwe/react-native-sf-action-sheet/issues"
+	},
+	"peerDependencies": {
+		"react": ">=16.0.0",
+		"react-native": ">=0.47.0"
+	}
+}
